@@ -1,0 +1,8 @@
+RAPORT GENERAT LA: Mon Mar 23 21:38:41 EET 2026
+---------------------------
+Erori in loguri: 2
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  4.5G  952G   1% /
+               total        used        free      shared  buff/cache   available
+Mem:            7776        1070        6461           3         243        6550
+Swap:           2048           0        2048
